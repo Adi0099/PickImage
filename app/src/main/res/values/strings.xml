@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PickImage</string>
+    <string name="select">Please select a image</string>
+    <string name="wait">Please Wait..</string>
+</resources>
